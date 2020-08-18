@@ -36,3 +36,7 @@ Do Tests
 ```
 yarn test
 ```
+
+### Change Log
+*0.1.0*: Base Project
+*0.1.1*: Add style loader compatibility
